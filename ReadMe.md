@@ -18,8 +18,7 @@ De komende activiteiten kan je hier vinden:
 | 31/01/2020 --> 02/02/2020 | FOSDEM | ULB | |
 | 03/02/2020 | Vergadering | Het Scoutshuis | 18u30 eten en 19u30 start vergadering |
 | 05/03/2020 | Vergadering | Het Scoutshuis | 18u30 eten en 19u30 start vergadering |
-| 13/08/2020 --> 15/08/2020 | Ploegen Weekend | | |
-| 27/08/2020 --> 28/08/2020 | Hackaton | Vossenhol Moerkesheide  | 19u --> 18u |
+| 13/02/2020 --> 15/02/2020 | Ploegen Weekend | | |
 | 02/04/2020 | Vergadering | Het Scoutshuis | 18u30 eten en 19u30 start vergadering |
 | 04/05/2020 | Vergadering | Het Scoutshuis | 18u30 eten en 19u30 start vergadering |
 | 02/06/2020 | Vergadering | Het Scoutshuis | 18u30 eten en 19u30 start vergadering |
